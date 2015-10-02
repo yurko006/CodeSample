@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1429469482 source:/home/a09zmzz/Documents/C/DirTraversale/main.c
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<signal.h>
+	<sys/time.h>
+	<time.h>
+	<stddef.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/wait.h>
+	<dirent.h>
+	<errno.h>
+	<ctype.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<semaphore.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<limits.h>
+	<ftw.h>
+

@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1430968533 source:/home/a09zmzz/Documents/C/A5Client/client.c
+	<errno.h>
+	<ctype.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	"md5sum.h"
+	<sys/stat.h>
+	<ftw.h>
+	<stdbool.h>
+	<sys/types.h>
+	"../A5includes/a5header.h"
+
+1430968025 /home/a09zmzz/Documents/C/A5includes/a5header.h
+
+1429594544 /home/a09zmzz/Documents/C/A5Client/md5sum.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<openssl/md5.h>
+
+1430872873 source:/home/a09zmzz/Documents/C/A5Client/md5sum.c
+	"md5sum.h"
+
+1431056631 source:/home/a09zmzz/Desktop/A5All/A5Client/client.c
+	<errno.h>
+	<ctype.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netinet/ip.h>
+	<unistd.h>
+	"md5sum.h"
+	<sys/stat.h>
+	<ftw.h>
+	<stdbool.h>
+	<sys/types.h>
+	"../A5includes/a5header.h"
+
+1429594544 /home/a09zmzz/Desktop/A5All/A5Client/md5sum.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<openssl/md5.h>
+
+1431055574 /home/a09zmzz/Desktop/A5All/A5includes/a5header.h
+
+1430872874 source:/home/a09zmzz/Desktop/A5All/A5Client/md5sum.c
+	"md5sum.h"
+
